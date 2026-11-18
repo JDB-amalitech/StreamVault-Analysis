@@ -1,0 +1,26 @@
+[
+    {
+        "movie_id": 8471293,
+        "error": "404 Client Error: Not Found for url: https://api.themoviedb.org/3/movie/8471293?language=en-US"
+    },
+    {
+        "movie_id": -1,
+        "error": "404 Client Error: Not Found for url: https://api.themoviedb.org/3/movie/-1?language=en-US"
+    },
+    {
+        "movie_id": 9412887,
+        "error": "404 Client Error: Not Found for url: https://api.themoviedb.org/3/movie/9412887?language=en-US"
+    },
+    {
+        "movie_id": 8471294,
+        "error": "404 Client Error: Not Found for url: https://api.themoviedb.org/3/movie/8471294?language=en-US"
+    },
+    {
+        "movie_id": 9412888,
+        "error": "404 Client Error: Not Found for url: https://api.themoviedb.org/3/movie/9412888?language=en-US"
+    },
+    {
+        "movie_id": 7733901,
+        "error": "404 Client Error: Not Found for url: https://api.themoviedb.org/3/movie/7733901?language=en-US"
+    }
+]
