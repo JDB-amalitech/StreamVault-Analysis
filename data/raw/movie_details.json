@@ -163,8 +163,8 @@
         "tagline": "Getting back was only the beginning.",
         "title": "Back to the Future Part II",
         "video": false,
-        "vote_average": 7.783,
-        "vote_count": 14534
+        "vote_average": 7.784,
+        "vote_count": 14535
     },
     {
         "adult": false,
@@ -251,7 +251,7 @@
         "tagline": "All the power on earth can't change destiny.",
         "title": "The Godfather Part III",
         "video": false,
-        "vote_average": 7.412,
+        "vote_average": 7.4,
         "vote_count": 7202
     },
     {
@@ -414,8 +414,8 @@
         "tagline": "3 times the suspense. 3 times the danger. 3 times the terror",
         "title": "Alien³",
         "video": false,
-        "vote_average": 6.39,
-        "vote_count": 6725
+        "vote_average": 6.391,
+        "vote_count": 6726
     },
     {
         "adult": false,
@@ -497,7 +497,7 @@
         "title": "Jurassic Park III",
         "video": false,
         "vote_average": 6.179,
-        "vote_count": 8200
+        "vote_count": 8201
     },
     {
         "adult": false,
@@ -581,7 +581,7 @@
         "title": "Pulp Fiction",
         "video": false,
         "vote_average": 8.48,
-        "vote_count": 31357
+        "vote_count": 31359
     },
     {
         "adult": false,
@@ -764,7 +764,7 @@
         "title": "Iron Man 2",
         "video": false,
         "vote_average": 6.856,
-        "vote_count": 23252
+        "vote_count": 23253
     },
     {
         "adult": false,
@@ -1394,7 +1394,7 @@
         "title": "The Lord of the Rings: The Two Towers",
         "video": false,
         "vote_average": 8.433,
-        "vote_count": 25006
+        "vote_count": 25008
     },
     {
         "adult": false,
@@ -1477,7 +1477,7 @@
         "title": "The Hobbit: The Battle of the Five Armies",
         "video": false,
         "vote_average": 7.342,
-        "vote_count": 16001
+        "vote_count": 16002
     },
     {
         "adult": false,
@@ -1639,7 +1639,7 @@
         "title": "Aliens",
         "video": false,
         "vote_average": 7.97,
-        "vote_count": 11393
+        "vote_count": 11395
     },
     {
         "adult": false,
@@ -2227,7 +2227,7 @@
         "title": "Avengers: Endgame",
         "video": false,
         "vote_average": 8.247,
-        "vote_count": 29410
+        "vote_count": 29412
     },
     {
         "adult": false,
@@ -2389,7 +2389,7 @@
         "title": "The Avengers",
         "video": false,
         "vote_average": 8.085,
-        "vote_count": 40401
+        "vote_count": 40402
     },
     {
         "adult": false,
@@ -3315,7 +3315,7 @@
             "id": 1241,
             "name": "Harry Potter Collection",
             "poster_path": "/eVPs2Y0LyvTLZn6AP5Z6O2rtiGB.jpg",
-            "backdrop_path": "/4gV0rKUjB1nLUdZB4zIltLvNZZr.jpg"
+            "backdrop_path": "/kmEsQL2vOTA0jnM28fXS45Ky8kX.jpg"
         },
         "budget": 125000000,
         "genres": [
@@ -3378,8 +3378,8 @@
         "tagline": "It all ends.",
         "title": "Harry Potter and the Deathly Hallows: Part 2",
         "video": false,
-        "vote_average": 8.1,
-        "vote_count": 22755
+        "vote_average": 8.081,
+        "vote_count": 22756
     },
     {
         "adult": false,
@@ -3536,8 +3536,8 @@
         "tagline": "The adventure continues...",
         "title": "Indiana Jones and the Kingdom of the Crystal Skull",
         "video": false,
-        "vote_average": 6.027,
-        "vote_count": 9391
+        "vote_average": 6.0,
+        "vote_count": 9392
     },
     {
         "adult": false,
@@ -3615,8 +3615,8 @@
         "tagline": "If adventure has a name... it must be Indiana Jones.",
         "title": "Indiana Jones and the Temple of Doom",
         "video": false,
-        "vote_average": 7.309,
-        "vote_count": 10537
+        "vote_average": 7.3,
+        "vote_count": 10538
     },
     {
         "adult": false,
@@ -3878,7 +3878,7 @@
         "title": "Die Hard",
         "video": false,
         "vote_average": 7.818,
-        "vote_count": 12882
+        "vote_count": 12883
     },
     {
         "adult": false,
@@ -4032,7 +4032,7 @@
         "title": "The Empire Strikes Back",
         "video": false,
         "vote_average": 8.392,
-        "vote_count": 19142
+        "vote_count": 19143
     },
     {
         "adult": false,
@@ -4746,7 +4746,7 @@
         "title": "Jurassic Park",
         "video": false,
         "vote_average": 7.977,
-        "vote_count": 18629
+        "vote_count": 18632
     },
     {
         "adult": false,
@@ -4831,7 +4831,7 @@
         "title": "The Godfather",
         "video": false,
         "vote_average": 8.689,
-        "vote_count": 24003
+        "vote_count": 24005
     },
     {
         "adult": false,
@@ -4921,7 +4921,7 @@
         "title": "The Godfather Part II",
         "video": false,
         "vote_average": 8.573,
-        "vote_count": 14632
+        "vote_count": 14634
     },
     {
         "adult": false,
@@ -5274,8 +5274,8 @@
         "tagline": "In space no one can hear you scream.",
         "title": "Alien",
         "video": false,
-        "vote_average": 8.176,
-        "vote_count": 17156
+        "vote_average": 8.2,
+        "vote_count": 17160
     },
     {
         "adult": false,
@@ -5422,7 +5422,7 @@
         "title": "Forrest Gump",
         "video": false,
         "vote_average": 8.462,
-        "vote_count": 30911
+        "vote_count": 30914
     },
     {
         "adult": false,
@@ -7347,8 +7347,8 @@
         "tagline": "Beyond darkness... beyond desolation... lies the greatest danger of all.",
         "title": "The Hobbit: The Desolation of Smaug",
         "video": false,
-        "vote_average": 7.579,
-        "vote_count": 14829
+        "vote_average": 7.58,
+        "vote_count": 14831
     },
     {
         "adult": false,
@@ -7594,7 +7594,7 @@
         "title": "Star Wars: Episode II - Attack of the Clones",
         "video": false,
         "vote_average": 6.597,
-        "vote_count": 14905
+        "vote_count": 14906
     },
     {
         "adult": false,
@@ -7797,7 +7797,7 @@
         "title": "Mad Max: Fury Road",
         "video": false,
         "vote_average": 7.642,
-        "vote_count": 24970
+        "vote_count": 24972
     },
     {
         "adult": false,
@@ -8326,7 +8326,7 @@
         "title": "The Terminator",
         "video": false,
         "vote_average": 7.699,
-        "vote_count": 15445
+        "vote_count": 15447
     },
     {
         "adult": false,
@@ -8916,7 +8916,7 @@
         "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
         "video": false,
         "vote_average": 6.7,
-        "vote_count": 13238
+        "vote_count": 13239
     },
     {
         "adult": false,
