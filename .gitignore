@@ -16,5 +16,7 @@ __pycache__/
 
 
 # Ignore CSV and JSON files inside data folder
-data/processed/*.csv
-data/*.json
+# Data files
+
+*.csv
+*.json
