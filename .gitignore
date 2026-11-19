@@ -13,3 +13,9 @@ __pycache__/
 
 # Logs
 *.log
+
+# Ignore all CSV files
+*.csv
+
+# Ignore all JSON files
+*.json

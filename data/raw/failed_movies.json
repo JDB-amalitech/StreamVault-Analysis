@@ -4,10 +4,6 @@
         "error": "404 Client Error: Not Found for url: https://api.themoviedb.org/3/movie/8471293?language=en-US"
     },
     {
-        "movie_id": -1,
-        "error": "404 Client Error: Not Found for url: https://api.themoviedb.org/3/movie/-1?language=en-US"
-    },
-    {
         "movie_id": 9412887,
         "error": "404 Client Error: Not Found for url: https://api.themoviedb.org/3/movie/9412887?language=en-US"
     },
