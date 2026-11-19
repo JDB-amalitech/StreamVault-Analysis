@@ -19,7 +19,10 @@ from api_fetch import fetch_movie_details, fetch_movie_credits, resolve_imdb_id
 # 1. LOAD IDS AS TEXT (never coerce silently: that is how rows vanish)
 # ------------------------------------------------------------------
 def load_id_list():
-    df = pd.read_csv(cfg.INPUT_FILE, dtype=str, skip_blank_lines=False)
+    # keep_default_na=False: text such as "N/A" stays visible as text and is
+    # reported as an unparseable id instead of vanishing as a blank
+    df = pd.read_csv(cfg.INPUT_FILE, dtype=str, skip_blank_lines=False,
+                     keep_default_na=False)
     if "tmdb_id" not in df.columns:
         raise ValueError("Required column 'tmdb_id' was not found in the CSV.")
     df = df[["tmdb_id"]].copy()
