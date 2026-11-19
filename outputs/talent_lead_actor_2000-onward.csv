@@ -1,0 +1,11 @@
+person_id,person_name,films,mean_score,hit_rate,shrunk_score
+110,Viggo Mortensen,3,1.417,1.0,0.85
+109,Elijah Wood,3,1.417,1.0,0.85
+16828,Chris Evans,3,1.162,1.0,0.697
+103,Mark Ruffalo,3,0.895,1.0,0.537
+1327,Ian McKellen,6,0.686,0.667,0.515
+10989,Rupert Grint,8,0.587,1.0,0.47
+10980,Daniel Radcliffe,8,0.587,1.0,0.47
+10990,Emma Watson,8,0.587,1.0,0.47
+74568,Chris Hemsworth,2,0.726,1.0,0.363
+3223,Robert Downey Jr.,7,0.45,0.714,0.35

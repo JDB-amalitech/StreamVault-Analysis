@@ -1,0 +1,11 @@
+person_id,person_name,films,mean_score,hit_rate,shrunk_score
+19272,Joe Russo,2,0.961,1.0,0.48
+19271,Anthony Russo,2,0.961,1.0,0.48
+488,Steven Spielberg,8,0.51,0.75,0.408
+24,Robert Zemeckis,4,0.519,0.75,0.346
+108,Peter Jackson,6,0.446,0.5,0.334
+1,George Lucas,4,0.446,0.75,0.297
+1776,Francis Ford Coppola,3,0.458,0.667,0.275
+10965,Chris Columbus,2,0.524,1.0,0.262
+12891,Joss Whedon,2,0.402,1.0,0.201
+11343,David Yates,4,0.285,1.0,0.19

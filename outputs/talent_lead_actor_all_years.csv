@@ -1,0 +1,11 @@
+person_id,person_name,films,mean_score,hit_rate,shrunk_score
+2,Mark Hamill,3,1.472,1.0,0.883
+4,Carrie Fisher,3,1.472,1.0,0.883
+110,Viggo Mortensen,3,1.007,1.0,0.604
+109,Elijah Wood,3,1.007,1.0,0.604
+16828,Chris Evans,3,0.87,1.0,0.522
+3,Harrison Ford,8,0.509,0.75,0.407
+103,Mark Ruffalo,3,0.624,1.0,0.374
+1327,Ian McKellen,6,0.446,0.5,0.334
+10989,Rupert Grint,8,0.36,1.0,0.288
+10990,Emma Watson,8,0.36,1.0,0.288

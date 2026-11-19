@@ -1,0 +1,4 @@
+collection_id,collection_name,films,mean_score,weakest_entry_score,mean_roi,weakest_entry_roi,mean_rating,first_year,last_year,bundle_value
+119.0,The Lord of the Rings Collection,3,1.007,0.902,10.999,9.37,8.464,2001,2003,0.976
+86311.0,The Avengers Collection,4,0.681,0.116,6.998,5.98,7.964,2012,2019,0.512
+10.0,Star Wars Collection,6,0.695,-0.444,23.356,5.412,7.528,1977,2005,0.354

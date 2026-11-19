@@ -1,0 +1,5 @@
+segment,films,mean_score,median_score,mean_roi,median_roi,mean_rating,median_real_revenue_m,window
+franchise,87,0.009,-0.058,7.936,5.526,7.441,1132.386,all years
+standalone,25,-0.032,0.164,10.48,5.0,8.102,501.468,all years
+franchise,56,0.082,0.046,5.53,5.187,7.391,1278.681,2000-onward
+standalone,15,-0.306,-0.538,4.695,4.252,7.593,653.227,2000-onward
