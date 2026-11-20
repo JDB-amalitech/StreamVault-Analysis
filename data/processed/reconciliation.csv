@@ -1,0 +1,10 @@
+step,rows
+input rows in id_list.csv,127
+  lost: dropped_duplicate,-7
+  lost: dropped_not_found_in_api,-5
+  lost: dropped_invalid_id,-1
+  lost: dropped_missing_id,-1
+  lost: dropped_unparseable_id,-1
+films fetched (details+credits),112
+  lost: excluded for unusable financials/dates,0
+films in final analysis,112

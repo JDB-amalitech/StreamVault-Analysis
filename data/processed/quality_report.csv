@@ -1,0 +1,17 @@
+problem,films_affected,share_of_films
+dropped_duplicate,7,
+dropped_not_found_in_api,5,
+dropped_invalid_id,1,
+dropped_missing_id,1,
+dropped_unparseable_id,1,
+flag_pre_cutoff,41,0.366
+flag_zero_revenue,0,0.0
+flag_zero_budget,0,0.0
+flag_implausible_budget,0,0.0
+flag_revenue_below_budget,0,0.0
+flag_missing_date,0,0.0
+flag_not_released,0,0.0
+flag_zero_runtime,0,0.0
+flag_low_votes,0,0.0
+flag_missing_cpi,0,0.0
+flag_dup_imdb,0,0.0
